@@ -20,5 +20,11 @@ namespace VSTSToolbox.Pages
             { if (DataContext is IPageLifeCycleAwareViewModel viewModel)
                 viewModel.OnAppearing(); }
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var dialog = new LicencesPage();
+            dialog.Show();
+        }
     }
 }

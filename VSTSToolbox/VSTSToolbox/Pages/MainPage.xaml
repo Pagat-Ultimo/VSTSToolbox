@@ -32,5 +32,6 @@
         <Button Content="Refresh" HorizontalAlignment="Left" Margin="779,10,0,0" VerticalAlignment="Top" Width="75" Height="22" Command="{Binding RefreshOrganizationCommand}"/>
         <ComboBox HorizontalAlignment="Left" Margin="584,10,0,0" VerticalAlignment="Top" Width="190" ItemsSource="{Binding AvailableBranches}" DisplayMemberPath="Name" SelectedItem="{Binding SelectedBranch}"/>
         <Button Content="Settings" HorizontalAlignment="Left" Margin="779,37,0,0" VerticalAlignment="Top" Width="75" Height="22" Command="{Binding ShowSettingsCommand}"/>
+        <Button Content="About" HorizontalAlignment="Left" Margin="699,37,0,0" VerticalAlignment="Top" Width="75" Height="22" Click="Button_Click" />
     </Grid>
 </Window>
