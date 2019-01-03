@@ -1,2 +1,2 @@
 # VSTSToolbox
-Collection of funtions which utilise the VSTS API
+Collection of funtions which utilizes the VSTS API
