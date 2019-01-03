@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=PAT/@EntryIndexedValue">PAT</s:String>
+	<s:Boolean x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=33B632C0BD8AD24B8E47D50E7205019A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=33B632C0BD8AD24B8E47D50E7205019A/AbsolutePath/@EntryValue">C:\Repos\VSTSToolbox\VSTSToolbox\razzil_v_1_0_1.DotSettings</s:String>
+	<s:String x:Key="/Default/Environment/InjectedLayers/FileInjectedLayer/=33B632C0BD8AD24B8E47D50E7205019A/RelativePath/@EntryValue">..\razzil_v_1_0_1.DotSettings</s:String>
+	<s:Boolean x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=File33B632C0BD8AD24B8E47D50E7205019A/@KeyIndexDefined">True</s:Boolean>
+	<s:Double x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=File33B632C0BD8AD24B8E47D50E7205019A/RelativePriority/@EntryValue">1</s:Double>
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=VSTS/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

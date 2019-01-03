@@ -1,0 +1,18 @@
+﻿<Window x:Class="VSTSToolbox.Pages.SettingsPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VSTSToolbox.Pages"
+        mc:Ignorable="d"
+        Title="SettingsPage" Height="308.01" Width="518.204">
+    <Grid>
+        <Label Content="Team Foundation Service Url" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,26,0,0" TextWrapping="Wrap" Text="{Binding TfsUrl}" VerticalAlignment="Top" Width="490"/>
+        <Button Content="Abbrechen" HorizontalAlignment="Left" Margin="401,238,0,0" VerticalAlignment="Top" Width="99" Height="29"  Command="{Binding CancelCommand}" Click="Button_Click_1"/>
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="297,238,0,0" VerticalAlignment="Top" Width="99" Height="29" Command="{Binding OkCommand}" Click="Button_Click"/>
+        <Label Content="Personal Access Token" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,56,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,82,0,0" TextWrapping="Wrap" Text="{Binding PAT}" VerticalAlignment="Top" Width="490"/>
+
+    </Grid>
+</Window>
