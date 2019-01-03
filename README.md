@@ -18,7 +18,7 @@ If everything works correctly you should now see that the Organizations, Project
 # Functions
 
 Commit Summary
-Under the Pullrequests Tab you find the function to export every commit for a period of time which are checked if the come from a pullrequest. The exported file is an Excel and will look something like this.
+Under the Pullrequests Tab you find the function to export every commit for a period of time which are checked if the come from a pullrequest. The exported file is an Excel.
 
 
 Commit Id
